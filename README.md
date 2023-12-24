@@ -63,7 +63,7 @@ To use this project, follow these steps:
 
 ## Dependencies
 
-- Python 3.x
+- Python 3.10
 - pandas
 - numpy
 - re (regular expressions)
