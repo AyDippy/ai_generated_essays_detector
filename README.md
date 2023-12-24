@@ -1,6 +1,6 @@
 # AI-Generated Essays Detector
 
-![Project Logo/Image - If Applicable](https://unsplash.com/photos/a-computer-generated-image-of-the-letter-a-ZPOoDQc8yMw)
+![Project Logo/Image - If Applicable](https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -78,8 +78,3 @@ You can install these dependencies using the `requirements.txt` file provided.
 ## Contributing
 
 If you would like to contribute to this project, please follow the standard GitHub fork and pull request process. Contributions, bug reports, and feature requests are welcome.
-
-## License
-
-[Provide information about the project's license, if applicable.]
-
